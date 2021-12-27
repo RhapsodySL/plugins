@@ -1,0 +1,18 @@
+[
+    {
+        "Author": "Rhapsody",
+        "Name": "Browserhost",
+        "Description": "BrowserHost testing update",
+        "InternalName": "BrowserHost.Plugin",
+        "AssemblyVersion": "4.0.0.0",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 5,
+        "DownloadLinkInstall": "https://github.com/RhapsodySL/plugins/raw/master/plugins/BrowserHost.Plugin/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/RhapsodySL/plugins/raw/master/plugins/BrowserHost.Plugin/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/RhapsodySL/plugins/raw/master/plugins/BrowserHost.Plugin/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1640537839"
+    }
+]
